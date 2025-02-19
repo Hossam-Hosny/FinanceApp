@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Expense>
+
+<h2>My Expenses</h2>
+
+
+<div class="container">
+
+    <table class="table table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Category</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Expense item in Model){
+                <tr>
+                    <td>@item.Description</td>
+                    <td>@item.Amount $</td>
+                    <td>@item.Category</td>
+                    <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>
+<h2>Expenses Overiew</h2>
+<div>
+    <canvas style="max-width:450px; max-height:450px;" id="myChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    const ctx = document.getElementById('myChart');
+
+     
+    fetch('/Expenses/GetChart')
+    .then(response => response.json())
+    .then(data => {
+        console.log("Chart Data:", data); // Check if data is correctly received
+
+        new Chart(document.getElementById('myChart'), {
+            type: 'pie',
+            data: {
+                labels: data.map(d => d.category),
+                datasets: [{
+                    data: data.map(d => d.total),
+                    backgroundColor: ['red', 'blue', 'green', 'yellow', 'purple']
+                }]
+            }
+        });
+    })
+     .catch(error => console.error("Error fetching chart data:", error));
+   
+</script>
+

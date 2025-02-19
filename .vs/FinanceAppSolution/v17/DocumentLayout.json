@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVC Project\\FinanceAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\data\\services\\iexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\services\\iexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\data\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\dtos\\expensesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\dtos\\expensesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\startupextensions\\mvcstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\startupextensions\\mvcstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Migrations\\20250219042102_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceApp\\Migrations\\20250219042102_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|e:\\mvc project\\financeappsolution\\financeapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27B8E40B-37F6-45C7-97CA-4D214AC31798}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T06:12:00.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpensesDTO.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\DTOs\\ExpensesDTO.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\DTOs\\ExpensesDTO.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\DTOs\\ExpensesDTO.cs",
+              "RelativeToolTip": "FinanceApp\\DTOs\\ExpensesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:58:59.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Services\\ExpenseService.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:52:00.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\ExpensesController.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "FinanceApp\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:22:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:24:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExpense.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\Services\\IExpense.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Services\\IExpense.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\Services\\IExpense.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Services\\IExpense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:52:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinanceApp",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\FinanceApp.csproj",
+              "RelativeDocumentMoniker": "FinanceApp\\FinanceApp.csproj",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\FinanceApp.csproj",
+              "RelativeToolTip": "FinanceApp\\FinanceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T05:58:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Models\\Expense.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Models\\Expense.cs",
+              "RelativeToolTip": "FinanceApp\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:01:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:35:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MVCStartUP.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\StartUPExtensions\\MVCStartUP.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\StartUPExtensions\\MVCStartUP.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\StartUPExtensions\\MVCStartUP.cs",
+              "RelativeToolTip": "FinanceApp\\StartUPExtensions\\MVCStartUP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:15:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:08:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Program.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "FinanceApp\\Program.cs",
+              "ViewState": "AgIAAAwAAABgZmZmZmYkwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:13:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250219042102_Initial.cs",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Migrations\\20250219042102_Initial.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Migrations\\20250219042102_Initial.cs",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\Migrations\\20250219042102_Initial.cs",
+              "RelativeToolTip": "FinanceApp\\Migrations\\20250219042102_Initial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:21:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FinanceApp\\appsettings.Development.json",
+              "ToolTip": "E:\\MVC Project\\FinanceAppSolution\\FinanceApp\\appsettings.Development.json",
+              "RelativeToolTip": "FinanceApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T04:11:13.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
